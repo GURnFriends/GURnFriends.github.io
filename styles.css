@@ -511,8 +511,22 @@ body{
 /* ================= CONTACT ================= */
 
 .contact-card{
-  text-align:center;
-  font-size:1.1rem;
+  text-align:left;
+  max-width:800px;
+}
+
+.contact-note{
+  margin-top:25px;
+  font-style:italic;
+  color:var(--text-soft);
+}
+
+#book-session .grid-2{
+  align-items:stretch;
+}
+
+#book-session .content-card{
+  height:100%;
 }
 
 /* ================= FOOTER ================= */
