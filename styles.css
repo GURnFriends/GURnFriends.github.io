@@ -164,7 +164,7 @@ body{
     linear-gradient(
       135deg,
       var(--purple),
-      var(--orange)
+      var(--)
     );
 
   color:#fff;
