@@ -283,7 +283,7 @@ body{
   letter-spacing:0.16em;
   font-size:0.8rem;
 
-  color:var(--purple);
+  color:var(--orange);
 
   font-weight:600;
 
@@ -316,8 +316,8 @@ body{
   background:
     linear-gradient(
       90deg,
-      var(--purple),
-      var(--orange)
+      var(--orange),
+      var(--purple)
     );
 }
 
